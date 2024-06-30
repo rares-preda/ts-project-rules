@@ -10,6 +10,7 @@
 		"lint:summary": "eslint-summary"
 	},
 	"dependencies": {
+		"nodeenv": "^3.0.75",
 		"tslib": "^2.6.3"
 	},
 	"devDependencies": {
