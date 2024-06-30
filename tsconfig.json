@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"baseUrl": "src",
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"importHelpers": true,
+		"paths": {
+			"assets/*": ["../assets/*"],
+			"components/*": ["components/*"],
+			"constants/*": ["constants/*"],
+			"helpers/*": ["helpers/*"],
+			"hooks/*": ["hooks/*"],
+			"navigations/*": ["navigations/*"],
+			"screens/*": ["screens/*"],
+			"services/*": ["services/*"],
+			"store/*": ["store/*"],
+			"styles/*": ["styles/*"],
+			"types/*": ["types/*"]
+		}
+	},
+	"include": [
+		"src/**/*.ts",
+		"src/**/*.tsx",
+		"__tests__/**/*.ts",
+		"__tests__/**/*.tsx",
+		"declarations.d.ts"
+	],
+	"jest": "jest.config.js"
+}

@@ -1,0 +1,8 @@
+# Directories
+node_modules
+dist
+__mocks__
+coverage
+
+# Other files
+package-lock.json

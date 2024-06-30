@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"eamodio.gitlens",
+		"zddq.aut-icons",
+		"shd101wyy.markdown-preview-enhanced"
+	],
+	"unwantedRecommendations": []
+}
